@@ -1,6 +1,6 @@
 # Mitschrift
 
-## Lektion 01: IDE + GIT
+## Lektion 01: IDE & GIT
 
 ### Shell Befehle
 
