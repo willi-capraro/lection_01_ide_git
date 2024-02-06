@@ -21,3 +21,4 @@
   - `--all` alle Dateien
 - `git commit` fügt Dateien zu Repos hinzu
   - `-m` Nachricht
+- `git push` pusht Commits auf Origin Repo
