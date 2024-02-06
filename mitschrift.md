@@ -23,3 +23,4 @@
   - `-m` Nachricht
 - `git push` pusht Commits auf Origin Repo
 - `git pull` pullt commits vom remote und merget sie
+- `git clone` klont existierendes Repo (und erhält Verknüpfung zu Origin)
